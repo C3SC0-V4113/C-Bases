@@ -1,0 +1,14 @@
+E:\Repositorios\csbases\bin\Debug\net10.0\csbases.exe
+E:\Repositorios\csbases\bin\Debug\net10.0\csbases.deps.json
+E:\Repositorios\csbases\bin\Debug\net10.0\csbases.runtimeconfig.json
+E:\Repositorios\csbases\bin\Debug\net10.0\csbases.dll
+E:\Repositorios\csbases\bin\Debug\net10.0\csbases.pdb
+E:\Repositorios\csbases\obj\Debug\net10.0\csbases.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\csbases\obj\Debug\net10.0\csbases.AssemblyInfoInputs.cache
+E:\Repositorios\csbases\obj\Debug\net10.0\csbases.AssemblyInfo.cs
+E:\Repositorios\csbases\obj\Debug\net10.0\csbases.csproj.CoreCompileInputs.cache
+E:\Repositorios\csbases\obj\Debug\net10.0\csbases.dll
+E:\Repositorios\csbases\obj\Debug\net10.0\refint\csbases.dll
+E:\Repositorios\csbases\obj\Debug\net10.0\csbases.pdb
+E:\Repositorios\csbases\obj\Debug\net10.0\csbases.genruntimeconfig.cache
+E:\Repositorios\csbases\obj\Debug\net10.0\ref\csbases.dll
