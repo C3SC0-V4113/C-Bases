@@ -12,3 +12,4 @@ E:\Repositorios\csbases\obj\Debug\net10.0\refint\csbases.dll
 E:\Repositorios\csbases\obj\Debug\net10.0\csbases.pdb
 E:\Repositorios\csbases\obj\Debug\net10.0\csbases.genruntimeconfig.cache
 E:\Repositorios\csbases\obj\Debug\net10.0\ref\csbases.dll
+E:\Repositorios\csbases\obj\Debug\net10.0\csbases.sourcelink.json
