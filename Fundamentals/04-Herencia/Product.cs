@@ -5,7 +5,10 @@ namespace csbases.Fundamentals;
 public class Product : IProduct
 {
     public int Id { get; set; }
+    [UpperCase]
     public string? Name { get; set; }
+    [UpperCase]
+    public string? Description { get; set; }
     public decimal Price { get; set; }
     public bool IsAvailable { get; set; }
     public DateTime CreatedDate { get; set; }
