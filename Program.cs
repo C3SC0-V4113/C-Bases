@@ -13,5 +13,14 @@ class Program
         var product = new Product("Mouse Gamer", 300);
         var productDto = ProductAdapter.ToDto(product);
         WriteLine($"DTO - Name: {productDto.Name}, Price: {productDto.Price:C}, Code: {productDto.Code}");
+
+        // Dependency Injection Example
+        ILabelService labelService = new LabelService();
+        var manager = new ProductManager(labelService);
+        var monitor = new Product("Monitor", 100);
+        var installation = new ServiceProduct("Instalación", 20, 30);
+
+        manager.PrintLabel(monitor);
+        manager.PrintLabel(installation);
     }
 }
