@@ -11,7 +11,7 @@ class Program
 
         // Implicit declaration of variables
         var greeting = "Welcome to C# programming!";
-        var porcentage = 20.00m;
-        WriteLine($"Greeting: {greeting}, Porcentage: {porcentage}%");
+        var percentage = 20.00m;
+        WriteLine($"Greeting: {greeting}, Percentage: {percentage}%");
     }
 }
