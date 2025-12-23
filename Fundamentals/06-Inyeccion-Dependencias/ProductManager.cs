@@ -17,6 +17,6 @@ public class ProductManager
     public void PrintLabel(Product product)
     {
         string label = GetProductLabel(product);
-        Console.WriteLine(label);
+        WriteLine(label);
     }
 }
